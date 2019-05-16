@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-<img src=TimesAnalysis.png>
+<img src=TimeAnalysis.png>
 </p>
